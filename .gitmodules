@@ -1,0 +1,6 @@
+[submodule "Sistemas-de-pedidos-restaurante-backend"]
+	path = Sistemas-de-pedidos-restaurante-backend
+	url = https://github.com/Maese-Alfred/Sistemas-de-pedidos-restaurante-backend.git
+[submodule "Sistemas-de-pedidos-restaurante-frontend"]
+	path = Sistemas-de-pedidos-restaurante-frontend
+	url = https://github.com/Maese-Alfred/Sistemas-de-pedidos-restaurante-frontend.git
